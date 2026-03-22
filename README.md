@@ -1,50 +1,23 @@
+# Projeto Integrador - Grupo 43
 
-📌 Projeto Integrador - Grupo 43
+## Descrição
+Projeto desenvolvido para gerenciar tarefas de forma simples usando Python.
 
-📖 Descrição do Projeto
+## Objetivo
+Criar um sistema básico de tarefas.
 
-Este projeto foi desenvolvido com o objetivo de aplicar na prática conhecimentos de programação utilizando Python.
+## Integrantes
+- ANTONIO AGRICOLA DORNELES  
+- THALES FERREIRA SANTANA  
+- GABRIEL HENRIQUE MENDOZA APAZA  
+- PEDRO HENRIQUE SILGUEIRO TRIMBOLI  
+- IGOR MARTINS LIMA  
+- LEONARDO MUNIR SALVADOR GARCIA  
+- JONATAS SALES DOS SANTOS VIEIRA  
+- MATEUS VINICIUS AGUIAR GONCALVES  
 
----
-
-🎯 Objetivo
-
-Criar um sistema simples de gerenciamento de tarefas.
-
----
-
-💡 Problema Proposto
-
-Ajudar usuários a organizarem suas tarefas do dia a dia de forma simples.
-
----
-
-🛠️ Tecnologias Utilizadas
-
-- Python
-- GitHub
-
----
-
-👥 Integrantes do Grupo
-
-- ANTONIO AGRICOLA DORNELES
-- THALES FERREIRA SANTANA
-- GABRIEL HENRIQUE MENDOZA APAZA
-- PEDRO HENRIQUE SILGUEIRO TRIMBOLI
-- RIAOR MARTINS LIMA
-- LEONARDO MUNIR SALVADOR GARCIA
-- JONATAS SALES DOS SANTOS VIEIRA
-- MATEUS VINICIUS AGUIAR GONCALVES
-
----
-
-▶️ Como Executar
-
+## Como executar
 python main.py
 
----
-
-🚀 Status
-
+## Status
 Em desenvolvimento
